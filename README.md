@@ -1,2 +1,1 @@
-# silicon-spire-grimoire
-Silicon Spire Academy Ledger
+# Max the Software Sorcerer 
